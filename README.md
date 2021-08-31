@@ -32,7 +32,7 @@ Mobile Version
 
 ### Links
 
-- Live Site URL: [Stats preview card](https://your-live-site-url.com)
+- Live Site URL: [Stats preview card](https://teetechdev.github.io/Stats-preview-card/)
 
 ## My process
 
